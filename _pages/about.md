@@ -48,4 +48,4 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-Hi, I am Zhenting Zhong's Papa. Nice to meet u all.
+Hey, How U doing? I am Wenbo Lu, an undergraduate Data Science student in the concentration of Artificial Intelligence with a minor in Neural Science at NYU Shanghai and NYU. Currently, I’m conducting research under the supervision of Professors Shengjie Wang and Qiaoyu Tan. My primary research interests focusing on diffusion models and cross-modality alignment.
